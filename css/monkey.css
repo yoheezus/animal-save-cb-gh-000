@@ -12,6 +12,6 @@ html {
 @media only screen and (max-width: 1170px) and (min-width: 406px) {
     #monkey {
         position: fixed;
-        bottom: 200px;
+        top: 450px;
     }
 }
